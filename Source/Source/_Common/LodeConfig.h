@@ -1,11 +1,7 @@
 #pragma once
 //|: ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
 
-/*
- -> This project is now EOL, for new bases and releases be sure to visit: https://lodelight.com
-*/
-
-#define	NEUZ_TITLE	"[VS22] Lodelight V19.4"			//: Window title of the client.
+#define	NEUZ_TITLE	"Flyff V19.4"						//: Window title of the client.
 #define	NEUZ_BHASH	"sunkist"							//: String to boot the client.
 #define	NEUZ_IPSET	"127.0.0.1"							//: Ip of the server, must match AccountServer.ini & LoginServer.ini.
 #define	NEUZ_CPORT	"5400"								//: Cache port, must match CacheServer.ini.
